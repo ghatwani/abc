@@ -1,0 +1,11 @@
+first create a folder and add all the files in it.
+then we have run cd "path of the folder" in command line
+then type git init in the command line and check in the folder in the hidden files there should be afolder named .git
+to check status type git status "git status"
+to add files  "git add "filename" "adds file to the staging area"
+to add all the files "git add ."
+to commit "git commit -m "messgage""
+to add a branch "git branch name"
+to check number of branch "git branch -l"
+to switch branch "git checkout <name>"
+to push into the repo copy the the three commands in the second block from github
